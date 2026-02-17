@@ -8,6 +8,13 @@ Além da programação, gosto muito de aprender idiomas, ler e conhecer diferent
 
 Meu objetivo é me desenvolver cada vez mais, contribuir com projetos reais e me tornar um desenvolvedor que não apenas escreve código, mas também resolve problemas de forma inteligente e eficiente.
 
+🌎 Línguas
+
+- 🇧🇷 Portuguese – C2  
+- 🇺🇸 English – C1  
+- 🇮🇹 Italian – A2
+
+
 ## 🚀 Technologies of Interest
 
 <table>
