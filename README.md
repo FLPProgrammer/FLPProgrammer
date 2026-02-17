@@ -1,16 +1,55 @@
-## Hi there 👋
+Olá! Seja bem-vindo ao meu pequeno mundo 👋
 
-<!--
-**FLPProgrammer/FLPProgrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um programador em busca da minha primeira oportunidade como desenvolvedor. Atualmente, estou focado em evoluir por meio de projetos pessoais, estudos constantes e cursos, sempre tentando aprender algo novo todos os dias.
 
-Here are some ideas to get you started:
+Tenho muita curiosidade e gosto de entender como as coisas funcionam na prática. Por isso, estou sempre construindo projetos, resolvendo problemas e explorando novas tecnologias para fortalecer minha base e crescer na área.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Além da programação, gosto muito de aprender idiomas, ler e conhecer diferentes culturas. Acredito que essa troca de conhecimento amplia a visão de mundo e também me ajuda a pensar de forma mais criativa na hora de programar.
+
+Meu objetivo é me desenvolver cada vez mais, contribuir com projetos reais e me tornar um desenvolvedor que não apenas escreve código, mas também resolve problemas de forma inteligente e eficiente.
+
+## 🚀 Technologies of Interest
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/><br>
+      TypeScript
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/><br>
+      React
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/><br>
+      Node.js
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/><br>
+      JavaScript
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/><br>
+      Java
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/><br>
+      SQL
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"/><br>
+      Docker
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/><br>
+      Git
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60"/><br>
+      Next.js
+    </td>
+  </tr>
+</table>
