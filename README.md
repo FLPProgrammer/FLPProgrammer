@@ -51,5 +51,9 @@ Meu objetivo é me desenvolver cada vez mais, contribuir com projetos reais e me
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60"/><br>
       Next.js
     </td>
+   <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/><br>
+      CSS
+  </td>
   </tr>
 </table>
