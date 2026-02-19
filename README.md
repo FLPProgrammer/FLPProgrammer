@@ -12,7 +12,7 @@ Meu objetivo é me desenvolver cada vez mais, contribuir com projetos reais e me
 
 - 🇧🇷 Portuguese – C2  
 - 🇺🇸 English – C1  
-- 🇮🇹 Italian – A2
+- 🇮🇹 Italian – B2
 
 
 ## 🚀 Technologies of Interest
