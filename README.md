@@ -15,7 +15,7 @@ Meu objetivo é me desenvolver cada vez mais, contribuir com projetos reais e me
 - 🇮🇹 Italian – B2
 
 
-## 🚀 Technologies of Interest
+## 🚀 Tecnologías de interesse
 
 <table>
   <tr>
